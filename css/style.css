@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(29 29 29);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "MORF" 15, "SHLN" 50;
+    font-size: 6rem;
+}
+
+header {
+    margin-bottom: 10rem;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: azure;
+}
+
+ul {
+    color: aliceblue;
+    padding: 2rem;
+}
+
+#carritop button {
+    margin: 1rem;
+}
